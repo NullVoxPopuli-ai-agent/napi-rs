@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.0.0](https://github.com/napi-rs/napi-rs/compare/napi-sys-v3.2.1...napi-sys-v4.0.0) - 2026-05-30
+
+### Fixed
+
+- *(napi)* experimental node_api_create_object_with_properties ([#3304](https://github.com/napi-rs/napi-rs/pull/3304))
+
 ## [3.2.1](https://github.com/napi-rs/napi-rs/compare/napi-sys-v3.2.0...napi-sys-v3.2.1) - 2025-12-02
 
 ### Fixed
